@@ -1,0 +1,8 @@
+hint_activation_key: S-M-b
+hint2_activation_key: S-M-m
+activation_key: S-M-n
+exit: C-c
+cursor_color: #FFFFFF
+hint_fgcolor: #FFFFFF
+hint_bgcolor: #5CA14C
+hint_size: 25
